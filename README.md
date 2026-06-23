@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Duanjay
 
-<!--
-**duanjay/duanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **GitHub 新手 · 正在学习编程**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 技能栈
+- 💻 正在学习：Python / Web Development
+- 🌱 目标：掌握 GitHub & 开源协作
+
+---
+
+### 📊 GitHub 数据
+
+![Duanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=duanjay&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 我的作品
+- 🔗 [我的个人网站](https://duanjay.github.io/test-repo/)
+
+---
+
+### 📫 联系我
+- Email: your.email@example.com
